@@ -7,4 +7,9 @@
             Console.WriteLine("Hello, World!");
         }
     }
+
+    internal class Student
+    {
+        public int Id { get; set; }
+    }
 }

@@ -1,1 +1,7 @@
 Update all the commands here.
+
+
+1. Git pull 
+	this will take the latest code of your current branch.
+2. git clone <remote_URL>
+	this will clone the remote_URL into your current working directory()
